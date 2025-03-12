@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "88837761756",
+    "project_id": "signindemo-a2a89",
+    "storage_bucket": "signindemo-a2a89.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88837761756:android:f8666d94aa3c576c06e219",
+        "android_client_info": {
+          "package_name": "com.example.signin_demo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC06-y_Q5SKtRsB47mOAcyVmjxzLhvfWyc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
